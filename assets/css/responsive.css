@@ -1,0 +1,116 @@
+@media only screen and (min-width: 1900px){
+    
+     .container{width: 1250px;}
+     .primary-menu li a { font-size: 18px;}
+     .estimate-btn a, .call a {  font-size: 18px;}
+     .slider-text h1 {  font-size: 90px}
+     .slider-text h3{font-size: 26px;}
+     .slider-text p { font-size: 18px;}
+     .slider-text a { font-size: 22px;}
+     .about-title p { font-size: 18px;}
+     .about-text p { font-size: 18px;}
+     .footer-nav ul li a { font-size: 16px;}
+     .footer-logo p { font-size: 16px;}
+     .footer-contact .address .text p { font-size: 16px;}
+}
+@media only screen and (max-width: 1024px){
+   
+    .slider-text { top: 275px; right: 70px; }
+    .service:hover .img-text {top: 20%;  }
+    .about-text {  padding-top: 50px;  }
+    .about-title p{width: 80%;}
+    .contact-form button{padding: 10px 123px; font-size: 14px; width: 97%;}
+    .contact-form textarea, .subject input{width: 96%;}
+    .name input, .contact input { width: 45%;} 
+    .title{padding: 30px;}
+}
+@media only screen and (max-width: 896px){
+     
+    .estimate-btn a, .call a { font-size: 14px;}
+    .services .container{max-width: 755px;}
+    .img-text{left: 10%;}
+    .hvr-text p{width: 80%;}
+    .service:hover .img-text { top: 10%; }
+    .about-text { padding-top: 10px; }
+    .about-text h4 {font-size: 24px;}
+    .footer-title p{font-size: 20px;}
+    .primary-menu-wrapper {   display: block; }
+    .header-navigation-wrapper {display: block;  }
+    .header-inner .toggle{display: none;}
+    .about-us{padding: 30px;}
+    .name input, .contact input { max-width: 316px; width: 100%;}
+    .map {  margin-top: 30px; }
+    .contact-text {  padding-top: 20px; }
+    .footer-nav ul, .footer-contact {  padding-top: 10px;  }
+    .footer-title p{padding-top: 15px;}
+    
+   
+}
+
+@media only screen and (max-width: 767px){
+    .estimate-btn a, .call a{ font-size: 13px; padding: 10px 10px; }
+    .slider-text { top: 185px; right: 50px; }
+    .slider-text h1 { font-size: 50px;}
+    .slider-text h3{font-size: 16px;}
+    .slider-text a { font-size: 14px;}
+    .service:hover .img-text {   top: 7%; }
+    .img-text h5, .img-text h6 {  font-size: 24px;}
+    .hvr-text a { font-size: 14px;}
+    .hvr-text p{padding-bottom: 20px;}
+    .hvr-text p { width: 100%; }
+    .service-title h4{padding-bottom: 25px;}
+    .about-us{padding: 15px;}
+    .about-text h4 {  font-size: 18px; }
+    .cta-text p { font-size: 14px;}
+    .cta-btn a {  font-size: 14px;}
+    .custome-cta { padding: 10px; }
+    .footer {  padding: 10px; }
+    .footer-nav ul {    padding-top: 10px; }
+    .footer-contact {  padding-top: 10px; }
+    .footer-title p {  font-size: 19px;  }
+    .contact-text {  padding-top: 20px; }
+    .map { margin-top: 30px; }
+    .about .container{max-width: 700px;}
+    .primary-menu li a { font-size: 14px;}
+}
+@media only screen and (max-width: 480px){
+    body{background: none; }
+    .slider-text p{width: 85%;}
+    .slider-text h1 { font-size: 45px; }
+    .slider-text p br{display: none;}
+    .service-title h4 { font-size: 28px;}
+    .header-navigation-wrapper { display: none; }
+    .header-inner .toggle{display: block;}
+    .toggle-menubar .container{background-color: #2b398d;}
+    .slider-text { position: relative; top: 0; left: 33px; }
+    .slider-text p { font-size: 12px;}
+    .slider-text a{background-color: #2b398d; color: #fefe00;}
+    .slider-text h1,.slider-text p{color: #001111;}
+    .name input, .contact input {  max-width: 316px; width: 46%; }
+    .contact-form textarea, .subject input {  width: 100%; }
+    .contact-form button {  padding: 10px 51px;   width: 100%;}
+    .cta-text p { font-size: 16px; }
+    .custome-cta { padding: 15px; }
+    .cta-btn a { font-size: 14px; padding: 5px 15px; float: left; }
+    .about-title p { width: 100%;  }
+    .img-text h5, .img-text h6 {  font-size: 30px; }
+    .img-text { left: 25%; }
+    .hvr-text p { width: 50%; }
+    .service:hover .img-text { top: 25%; }
+    .contact-text p {  font-size: 32px;}  
+    .title h1 {  font-size: 37px;}
+    .title{padding: 30px;}
+        
+}
+ 
+ 
+@media only screen and (max-width: 320px){
+    .call i {  font-size: 14px; }
+    .estimate-btn a, .call a { font-size: 11px;   }
+    .nav-toggle {     top: 190px; }
+    .contact-form button {   padding: 10px 44px;     }
+    .slider-text p br{display: none;}
+    .slider-text p{width: 85%;}
+    .slider-text h1 { font-size: 35px; }
+    .slider-text a{font-size: 12px; padding: 10px 20px;}
+}
